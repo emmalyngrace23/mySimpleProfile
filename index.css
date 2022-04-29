@@ -4,7 +4,7 @@ body {
 
 #landing {
 	/*background-color: #EEF2FF; */
-	background-image: src("./background.jpg");
+	background-image: url("./background2.jpg");
 	/*background-image: url(https://images.pexels.com/photos/8511548/pexels-photo-8511548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);*/
 	/*background-image: url(https://images.pexels.com/photos/1762851/pexels-photo-1762851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);*/
 	background-size: cover;
@@ -18,10 +18,12 @@ html {
 
  #my-name {
  	font-family: 'Sacramento', cursive; !important
+
  }
 
  #intro {
 	font-size: 20px;
+	text-decoration-color: white;
  }
 
 #projects,
