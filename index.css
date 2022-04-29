@@ -2,7 +2,6 @@ body {
 	background-color: #EEF2FF;
 }
 
-
 #landing {
 	/*background-color: #EEF2FF; */
 	background-image: src("./background.jpg");
@@ -11,7 +10,6 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
-
 }
 html {
 	scroll-behavior: smooth;
