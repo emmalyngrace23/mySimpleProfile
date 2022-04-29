@@ -1,0 +1,99 @@
+body {
+	background-color: #EEF2FF;
+}
+
+
+#landing {
+	/*background-color: #EEF2FF; */
+	background-image: src("./background.jpg");
+	/*background-image: url(https://images.pexels.com/photos/8511548/pexels-photo-8511548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);*/
+	/*background-image: url(https://images.pexels.com/photos/1762851/pexels-photo-1762851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);*/
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+html {
+	scroll-behavior: smooth;
+}
+
+
+ #my-name {
+ 	font-family: 'Sacramento', cursive; !important
+ }
+
+ #intro {
+	font-size: 20px;
+ }
+
+#projects,
+#intro,
+#tools,
+.contacts,
+#aboutMe,
+#visit{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.contacts {
+	text-align: center;
+	width: 100%;
+}
+
+
+#gmap_canvas {
+	height: 70vh;
+	width: 100%;
+	border:  0;
+}
+
+.fa-icon {
+	font-size: 2rem;
+}
+
+#tools-section > img {
+	width:  100px;
+}
+
+
+.row {
+	margin: 0 !important;
+}
+
+#aboutMe > img {
+	height: 200px;
+	width: 200px;
+	border-radius: 50px;
+}
+
+/*coffee color*/
+.navbar,
+#projects,
+#contacts {
+	background-color: #EEF2FF;
+}
+
+/*cream*/
+#footer,
+#tools {
+	background-color: #EEF2FF;
+}
+
+/*dark brown font*/
+#tools,
+#footer,
+#aboutMe,
+.fa-icon {
+	color: #2A2550 !important;
+}
+
+hr {
+	background-color: #EEF2FF;
+	border-style:  none;
+	border-top-style: dotted;
+	border-color:  grey;
+	border-width: 5px;
+	width:  5%;
+}
+
+
